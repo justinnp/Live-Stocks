@@ -1,0 +1,5 @@
+---
+applications:
+- name: stocks-app
+  memory: 512M
+  instances: 1
